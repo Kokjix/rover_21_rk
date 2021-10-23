@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="robot_drive" name="f_kinematic" type="f_kinematic.py" output="screen"/>
+</launch>
